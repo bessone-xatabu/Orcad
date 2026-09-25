@@ -222,4 +222,4 @@ OrCAD is provided as a full free version with all features and updates included.
 Ready to take your PCB design to the next level? Download OrCAD now and unlock the full potential of your electronics projects!
 
 ---
-**Last updated:** 2026-09-25 07:21:46 UTC
+**Last updated:** 2026-09-25 13:25:28 UTC
